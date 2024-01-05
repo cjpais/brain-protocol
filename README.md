@@ -9,4 +9,4 @@ protocol to describe brain to brain interactions (for now)
 
 * embeddings
 * query
-* permissions
+* permissions/auth
